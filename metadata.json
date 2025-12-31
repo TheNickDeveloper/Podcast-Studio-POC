@@ -1,0 +1,7 @@
+{
+  "name": "VoxNarrate - AI Article Podcast Generator",
+  "description": "Transform any article into a high-quality, AI-narrated podcast or audiobook experience with automatic summarization and voice customization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
